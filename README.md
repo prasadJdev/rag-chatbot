@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with 
+- Vercel SDK
+- Typescript
+- Tailwind CSS
+- ShadCn
+- LLM provider - OLLAMA
+- LLM - LLAMA 3.1 (Can be configured for other providers)
+  
 
 ## Getting Started
 
@@ -14,23 +21,25 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:5000](http://localhost:5000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## demo
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+https://github.com/user-attachments/assets/55c71216-5b87-4506-9511-5b1202ecd6af
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Screen shots of the product
+
+
+<img width="1676" alt="Screenshot 2025-04-16 at 10 17 50 PM" src="https://github.com/user-attachments/assets/4ab11788-6c6b-493a-9b79-37d499dd8972" />
+<img width="1680" alt="Screenshot 2025-04-16 at 10 18 23 PM" src="https://github.com/user-attachments/assets/2fb92efb-2432-4fed-9322-e31ee9a6af46" />
+<img width="1680" alt="Screenshot 2025-04-16 at 11 18 47 AM" src="https://github.com/user-attachments/assets/a0e7d454-ecb3-4082-8cca-617bd9aa01e4" />
+
+<img width="1680" alt="Screenshot 2025-04-16 at 10 18 05 PM" src="https://github.com/user-attachments/assets/6652bb19-08f7-4d74-8007-8efe09a2c3e8" />
+<img width="1680" alt="Screenshot 2025-04-16 at 10 17 10 PM" src="https://github.com/user-attachments/assets/7a0bdaa6-e1aa-425c-8b57-bdfdc05b4937" />
